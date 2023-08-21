@@ -1,0 +1,376 @@
+State_Name,County_Name,City_Name
+Alabama,Winston,Addison
+Alabama,Winston,Arley
+Alabama,Winston,Double Springs
+Alabama,Winston,Haleyville
+Alabama,Winston,Lynn
+Alabama,Winston,Natural Bridge
+Alabama,Blount,Allgood
+Alabama,Blount,Blountsville
+Alabama,Blount,Cleveland
+Alabama,Blount,County Line
+Alabama,Blount,Hayden
+Alabama,Blount,Highland Lake
+Alabama,Blount,Locust Fork
+Alabama,Blount,Nectar
+Alabama,Blount,Oneonta
+Alabama,Blount,Remlap
+Alabama,Blount,Rosa
+Alabama,Blount,Smoke Rise
+Alabama,Blount,Snead
+Alabama,Blount,Susan Moore
+Alabama,Butler,Georgiana
+Alabama,Butler,Greenville
+Alabama,Butler,Mckenzie
+Alabama,Colbert,Cherokee
+Alabama,Colbert,Leighton
+Alabama,Colbert,Littleville
+Alabama,Colbert,Muscle Shoals
+Alabama,Colbert,Sheffield
+Alabama,Colbert,Tuscumbia
+Alabama,Wilcox,Boykin
+Alabama,Wilcox,Camden
+Alabama,Wilcox,Catherine
+Alabama,Wilcox,Oak Hill
+Alabama,Wilcox,Pine Apple
+Alabama,Wilcox,Pine Hill
+Alabama,Wilcox,Yellow Bluff
+Alabama,Randolph,Graham
+Alabama,Randolph,Morrison Crossroads
+Alabama,Randolph,Roanoke
+Alabama,Randolph,Rock Mills
+Alabama,Randolph,Wadley
+Alabama,Randolph,Wedowee
+Alabama,Randolph,Woodland
+Alabama,Morgan,Decatur
+Alabama,Morgan,Eva
+Alabama,Morgan,Falkville
+Alabama,Morgan,Hartselle
+Alabama,Morgan,Priceville
+Alabama,Morgan,Somerville
+Alabama,Morgan,Trinity
+Alabama,Perry,Marion
+Alabama,Perry,Uniontown
+Alabama,Jefferson,Adamsville
+Alabama,Jefferson,Bessemer
+Alabama,Jefferson,Birmingham
+Alabama,Jefferson,Brighton
+Alabama,Jefferson,Brookside
+Alabama,Jefferson,Cardiff
+Alabama,Jefferson,Center Point
+Alabama,Jefferson,Clay
+Alabama,Jefferson,Concord
+Alabama,Jefferson,Edgewater
+Alabama,Jefferson,Fairfield
+Alabama,Jefferson,Forestdale
+Alabama,Jefferson,Fultondale
+Alabama,Jefferson,Gardendale
+Alabama,Jefferson,Grayson Valley
+Alabama,Jefferson,Graysville
+Alabama,Jefferson,Homewood
+Alabama,Jefferson,Hoover
+Alabama,Jefferson,Hueytown
+Alabama,Jefferson,Irondale
+Alabama,Jefferson,Kimberly
+Alabama,Jefferson,Leeds
+Alabama,Jefferson,Lipscomb
+Alabama,Jefferson,Maytown
+Alabama,Jefferson,Mccalla
+Alabama,Jefferson,Mcdonald Chapel
+Alabama,Jefferson,Midfield
+Alabama,Jefferson,Minor
+Alabama,Jefferson,Morris
+Alabama,Jefferson,Mount Olive
+Alabama,Jefferson,Mountain Brook
+Alabama,Jefferson,Mulga
+Alabama,Jefferson,North Johns
+Alabama,Jefferson,Pinson
+Alabama,Jefferson,Pleasant Grove
+Alabama,Jefferson,Rock Creek
+Alabama,Jefferson,Sylvan Springs
+Alabama,Jefferson,Tarrant
+Alabama,Jefferson,Trafford
+Alabama,Jefferson,Trussville
+Alabama,Jefferson,Vestavia Hills
+Alabama,Jefferson,Warrior
+Alabama,Jefferson,West Jefferson
+Alabama,Etowah,Altoona
+Alabama,Etowah,Attalla
+Alabama,Etowah,Ballplay
+Alabama,Etowah,Bristow Cove
+Alabama,Etowah,Carlisle-Rockledge
+Alabama,Etowah,Coats Bend
+Alabama,Etowah,Egypt
+Alabama,Etowah,Gadsden
+Alabama,Etowah,Gallant
+Alabama,Etowah,Glencoe
+Alabama,Etowah,Hokes Bluff
+Alabama,Etowah,Ivalee
+Alabama,Etowah,Lookout Mountain
+Alabama,Etowah,New Union
+Alabama,Etowah,Rainbow City
+Alabama,Etowah,Reece City
+Alabama,Etowah,Ridgeville
+Alabama,Etowah,Sardis City
+Alabama,Etowah,Southside
+Alabama,Etowah,Tidmore Bend
+Alabama,Etowah,Walnut Grove
+Alabama,Etowah,Whitesboro
+Alabama,Pike,Banks
+Alabama,Pike,Brundidge
+Alabama,Pike,Goshen
+Alabama,Pike,Troy
+Alabama,Dale,Ariton
+Alabama,Dale,Clayhatchee
+Alabama,Dale,Daleville
+Alabama,Dale,Fort Rucker
+Alabama,Dale,Grimes
+Alabama,Dale,Level Plains
+Alabama,Dale,Midland City
+Alabama,Dale,Napier Field
+Alabama,Dale,Newton
+Alabama,Dale,Ozark
+Alabama,Dale,Pinckard
+Alabama,Lauderdale,Anderson
+Alabama,Lauderdale,Florence
+Alabama,Lauderdale,Killen
+Alabama,Lauderdale,Lexington
+Alabama,Lauderdale,Rogersville
+Alabama,Lauderdale,St. Florian
+Alabama,Lauderdale,Underwood-Petersville
+Alabama,Lauderdale,Waterloo
+Alabama,Cleburne,Edwardsville
+Alabama,Cleburne,Fruithurst
+Alabama,Cleburne,Heflin
+Alabama,Cleburne,Hollis Crossroads
+Alabama,Cleburne,Ranburne
+Alabama,Tuscaloosa,Brookwood
+Alabama,Tuscaloosa,Coaling
+Alabama,Tuscaloosa,Coker
+Alabama,Tuscaloosa,Cottondale
+Alabama,Tuscaloosa,Holt
+Alabama,Tuscaloosa,Lake View
+Alabama,Tuscaloosa,Northport
+Alabama,Tuscaloosa,Tuscaloosa
+Alabama,Tuscaloosa,Vance
+Alabama,Coffee,Elba
+Alabama,Coffee,Enterprise
+Alabama,Coffee,Kinston
+Alabama,Coffee,New Brockton
+Alabama,Sumter,Bellamy
+Alabama,Sumter,Cuba
+Alabama,Sumter,Emelle
+Alabama,Sumter,Epes
+Alabama,Sumter,Gainesville
+Alabama,Sumter,Geiger
+Alabama,Sumter,Livingston
+Alabama,Sumter,Panola
+Alabama,Sumter,York
+Alabama,Henry,Abbeville
+Alabama,Henry,Haleburg
+Alabama,Henry,Headland
+Alabama,Henry,Newville
+Alabama,St. Clair,Argo
+Alabama,St. Clair,Ashville
+Alabama,St. Clair,Margaret
+Alabama,St. Clair,Moody
+Alabama,St. Clair,Odenville
+Alabama,St. Clair,Pell City
+Alabama,St. Clair,Ragland
+Alabama,St. Clair,Riverside
+Alabama,St. Clair,Springville
+Alabama,St. Clair,Steele
+Alabama,Houston,Ashford
+Alabama,Houston,Avon
+Alabama,Houston,Columbia
+Alabama,Houston,Cottonwood
+Alabama,Houston,Cowarts
+Alabama,Houston,Dothan
+Alabama,Houston,Gordon
+Alabama,Houston,Kinsey
+Alabama,Houston,Madrid
+Alabama,Houston,Rehobeth
+Alabama,Houston,Taylor
+Alabama,Houston,Webb
+Alabama,Calhoun,Alexandria
+Alabama,Calhoun,Anniston
+Alabama,Calhoun,Choccolocco
+Alabama,Calhoun,Hobson City
+Alabama,Calhoun,Jacksonville
+Alabama,Calhoun,Nances Creek
+Alabama,Calhoun,Ohatchee
+Alabama,Calhoun,Oxford
+Alabama,Calhoun,Piedmont
+Alabama,Calhoun,Saks
+Alabama,Calhoun,Weaver
+Alabama,Calhoun,West End-Cobb Town
+Alabama,Calhoun,White Plains
+Alabama,Mobile,Axis
+Alabama,Mobile,Bayou La Batre
+Alabama,Mobile,Belle Fontaine
+Alabama,Mobile,Bucks
+Alabama,Mobile,Chickasaw
+Alabama,Mobile,Chunchula
+Alabama,Mobile,Citronelle
+Alabama,Mobile,Creola
+Alabama,Mobile,Dauphin Island
+Alabama,Mobile,Grand Bay
+Alabama,Mobile,Gulfcrest
+Alabama,Mobile,Mobile
+Alabama,Mobile,Mount Vernon
+Alabama,Mobile,Movico
+Alabama,Mobile,Prichard
+Alabama,Mobile,Saraland
+Alabama,Mobile,Satsuma
+Alabama,Mobile,Semmes
+Alabama,Mobile,Theodore
+Alabama,Mobile,Tillmans Corner
+Alabama,Autauga,Autaugaville
+Alabama,Autauga,Billingsley
+Alabama,Autauga,Marbury
+Alabama,Autauga,Pine Level
+Alabama,Autauga,Prattville
+Alabama,Lee,Auburn
+Alabama,Lee,Loachapoka
+Alabama,Lee,Opelika
+Alabama,Lee,Smiths Station
+Alabama,Limestone,Ardmore
+Alabama,Limestone,Athens
+Alabama,Limestone,Elkmont
+Alabama,Limestone,Lester
+Alabama,Limestone,Mooresville
+Alabama,Talladega,Bon Air
+Alabama,Talladega,Childersburg
+Alabama,Talladega,Fayetteville
+Alabama,Talladega,Lincoln
+Alabama,Talladega,Mignon
+Alabama,Talladega,Munford
+Alabama,Talladega,Oak Grove
+Alabama,Talladega,Sylacauga
+Alabama,Talladega,Talladega
+Alabama,Talladega,Talladega Springs
+Alabama,Talladega,Waldo
+Alabama,Clarke,Carlton
+Alabama,Clarke,Coffeeville
+Alabama,Clarke,Fulton
+Alabama,Clarke,Grove Hill
+Alabama,Clarke,Jackson
+Alabama,Clarke,Rockville
+Alabama,Clarke,Thomasville
+Alabama,Clarke,Whatley
+Alabama,Marengo,Dayton
+Alabama,Marengo,Demopolis
+Alabama,Marengo,Faunsdale
+Alabama,Marengo,Linden
+Alabama,Marengo,Myrtlewood
+Alabama,Marengo,Nanafalia
+Alabama,Marengo,Providence
+Alabama,Marengo,Putnam
+Alabama,Marengo,Sweet Water
+Alabama,Marengo,Thomaston
+Alabama,Monroe,Beatrice
+Alabama,Monroe,Excel
+Alabama,Monroe,Frisco City
+Alabama,Monroe,Megargel
+Alabama,Monroe,Monroeville
+Alabama,Monroe,Peterman
+Alabama,Monroe,Uriah
+Alabama,Monroe,Vredenburgh
+Alabama,Lowndes,Benton
+Alabama,Lowndes,Fort Deposit
+Alabama,Lowndes,Gordonville
+Alabama,Lowndes,Hayneville
+Alabama,Lowndes,Lowndesboro
+Alabama,Lowndes,Mosses
+Alabama,Lowndes,White Hall
+Alabama,DeKalb,Collinsville
+Alabama,DeKalb,Crossville
+Alabama,DeKalb,Fort Payne
+Alabama,DeKalb,Fyffe
+Alabama,DeKalb,Geraldine
+Alabama,DeKalb,Hammondville
+Alabama,DeKalb,Henagar
+Alabama,DeKalb,Ider
+Alabama,DeKalb,Mentone
+Alabama,DeKalb,Pine Ridge
+Alabama,DeKalb,Powell
+Alabama,DeKalb,Rainsville
+Alabama,DeKalb,Shiloh
+Alabama,DeKalb,Sylvania
+Alabama,DeKalb,Valley Head
+Alabama,Fayette,Belk
+Alabama,Fayette,Berry
+Alabama,Fayette,Fayette
+Alabama,Fayette,Glen Allen
+Alabama,Macon,Franklin
+Alabama,Macon,Notasulga
+Alabama,Macon,Shorter
+Alabama,Macon,Tuskegee
+Alabama,Clay,Ashland
+Alabama,Clay,Delta
+Alabama,Clay,Hollins
+Alabama,Clay,Lineville
+Alabama,Clay,Millerville
+Alabama,Bullock,Fitzpatrick
+Alabama,Bullock,Midway
+Alabama,Bullock,Union Springs
+Alabama,Covington,Andalusia
+Alabama,Covington,Babbie
+Alabama,Covington,Carolina
+Alabama,Covington,Florala
+Alabama,Covington,Gantt
+Alabama,Covington,Heath
+Alabama,Covington,Horn Hill
+Alabama,Covington,Libertyville
+Alabama,Covington,Lockhart
+Alabama,Covington,Onycha
+Alabama,Covington,Opp
+Alabama,Covington,Red Level
+Alabama,Covington,River Falls
+Alabama,Covington,Sanford
+Alabama,Washington,Calvert
+Alabama,Washington,Chatom
+Alabama,Washington,Deer Park
+Alabama,Washington,Fairford
+Alabama,Washington,Fruitdale
+Alabama,Washington,Hobson
+Alabama,Washington,Leroy
+Alabama,Washington,Malcolm
+Alabama,Washington,Mcintosh
+Alabama,Washington,Millry
+Alabama,Washington,Sims Chapel
+Alabama,Washington,St. Stephens
+Alabama,Washington,Tibbie
+Alabama,Washington,Vinegar Bend
+Alabama,Pickens,Aliceville
+Alabama,Pickens,Carrollton
+Alabama,Pickens,Ethelsville
+Alabama,Pickens,Gordo
+Alabama,Pickens,Macedonia
+Alabama,Pickens,Mcmullen
+Alabama,Pickens,Memphis
+Alabama,Pickens,Pickensville
+Alabama,Pickens,Reform
+Alabama,Chambers,Abanda
+Alabama,Chambers,Cusseta
+Alabama,Chambers,Five Points
+Alabama,Chambers,Fredonia
+Alabama,Chambers,Huguley
+Alabama,Chambers,La Fayette
+Alabama,Chambers,Lanett
+Alabama,Chambers,Penton
+Alabama,Chambers,Standing Rock
+Alabama,Chambers,Valley
+Alabama,Chambers,Waverly
+Alabama,Marshall,Albertville
+Alabama,Marshall,Arab
+Alabama,Marshall,Boaz
+Alabama,Marshall,Douglas
+Alabama,Marshall,Grant
+Alabama,Marshall,Guntersville
+Alabama,Marshall,Union Grove
+Alabama,Russell,Hurtsboro
+Alabama,Russell,Ladonia
+Alabama,Russell,Phenix City
+Alabama,Chilton,Clanton
+Alabama,Chilton,Jemison
