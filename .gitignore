@@ -1,2 +1,3 @@
 venv/
 drivers/
+/output/census_results.json

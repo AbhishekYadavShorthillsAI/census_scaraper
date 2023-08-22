@@ -45,7 +45,8 @@ class CensusScraper:
         # Scrape data from a table on the webpage
         table_bodies = table.find_elements(By.TAG_NAME, 'tbody')
         state_data = []
-
+        
+        # Table can have multiple table bodies
         for tbody in table_bodies:
             table_heads = tbody.find_elements(By.TAG_NAME, 'th')
             table_rows = tbody.find_elements(By.TAG_NAME, 'tr')
@@ -98,7 +99,7 @@ class CensusScraper:
         self.driver.maximize_window()
         data = pd.read_csv(csv_file_path, usecols=[0, 1])
         unique_data = data.drop_duplicates()
-
+  
         final_data = []
         for _, row in unique_data.iterrows():
             county = row.iloc[1].lower()
@@ -113,8 +114,8 @@ class CensusScraper:
             json_file.write(final_data_json)
 
 chrome_driver_path = os.getcwd() + '/drivers/chromedriver'    
-json_file_path = os.getcwd() + '/census_results.json'
-csv_file_path = os.getcwd() + '/census_geo_sheet.csv'
+json_file_path = os.getcwd() + '/output/census_results.json'
+csv_file_path = os.getcwd() + '/input/census_geo_sheet.csv'
 
 # Create an instance of the CensusScraper class
 scraper = CensusScraper(chrome_driver_path)
