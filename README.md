@@ -1,4 +1,3 @@
-
 ```markdown
 # Census Web Scraping Project
 
@@ -29,19 +28,17 @@ pip install selenium pandas
 
 1. Clone the repository or download the project files.
 2. Download the appropriate version of the [Chrome WebDriver](https://sites.google.com/chromium.org/driver/) and place it in the `drivers` folder.
-3. Prepare your CSV file with county and state data. Name it `census_geo_sheet.csv` and place it in the project directory.
+3. Prepare your CSV file with county and state data. Name it `census_geo_sheet.csv` and place it in the input folder of project directory.
 4. Open a terminal and navigate to the project directory.
 5. Run the following command to execute the script:
 
 ```bash
-python script_name.py
+python main.py
 ```
-
-Make sure to replace `script_name.py` with the actual name of your Python script.
 
 ## Project Structure
 
-- `script_name.py`: The main script containing the web scraping logic.
+- `main.py`: The main script containing the web scraping logic.
 - `drivers/`: Directory containing the Chrome WebDriver.
 - `census_geo_sheet.csv`: CSV file with county and state data.
 - `census_results.json`: JSON file to store the extracted data (commented out by default).
@@ -49,10 +46,3 @@ Make sure to replace `script_name.py` with the actual name of your Python script
 ## Contributing
 
 If you find any issues or improvements for this project, please open an issue or submit a pull request. Your contributions are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Again, remember to replace `script_name.py` with the actual name of your Python script containing the scraping logic. Customize the content and project structure according to your specific project.
